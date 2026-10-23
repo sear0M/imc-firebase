@@ -1,4 +1,3 @@
-// Troque os valores COLE_AQUI pelos dados do seu projeto no Console do Firebase.
 export const firebaseConfig = {
   apiKey: 'COLE_AQUI',
   authDomain: 'COLE_AQUI',

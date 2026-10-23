@@ -31,7 +31,7 @@ Exercício de Firebase: a calculadora de IMC salva cada cálculo no Firebase (o 
 
 1. Entre no [Console do Firebase](https://console.firebase.google.com) e crie um projeto.
 2. Dentro do projeto, adicione um app da Web (o ícone `</>`). O Firebase mostra um objeto chamado `firebaseConfig`.
-3. Abra o arquivo `src/firebaseConfig.js` e troque cada `COLE_AQUI` pelo valor certo.
+3. Copie `src/firebaseConfig.example.js` para `src/firebaseConfig.js` e troque cada `COLE_AQUI` pelo valor certo. O arquivo `src/firebaseConfig.js` não vai para o GitHub.
 4. No menu do projeto, abra **Firestore Database**, clique em **Criar banco de dados** e escolha uma região. Pode começar no modo de teste.
 5. Na aba **Regras**, troque o texto pelo abaixo e publique:
 
